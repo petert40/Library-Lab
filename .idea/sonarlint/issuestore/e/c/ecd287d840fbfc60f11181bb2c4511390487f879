@@ -1,0 +1,28 @@
+
+s
+java:S1192K"VDefine a constant instead of duplicating this literal "The Lord of the Rings" 5 times.(ãÖÃŸ8öàş­Ï1
+L	java:S106"+Replace this use of System.out by a logger.(‘Ìóãÿÿÿÿÿ8áş­Ï1
+G	java:S106"+Replace this use of System.out by a logger.(··Ûë8áş­Ï1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¹— üÿÿÿÿ8áş­Ï1
+L	java:S106 "+Replace this use of System.out by a logger.(ìàäÔÿÿÿÿÿ8áş­Ï1
+L	java:S106%"+Replace this use of System.out by a logger.(Ë¹²Òıÿÿÿÿ8áş­Ï1
+L	java:S106-"+Replace this use of System.out by a logger.(±°Îìùÿÿÿÿ8áş­Ï1
+G	java:S1060"+Replace this use of System.out by a logger.(Šìî­8áş­Ï1
+L	java:S1066"+Replace this use of System.out by a logger.(î…ÎØşÿÿÿÿ8áş­Ï1
+G	java:S106="+Replace this use of System.out by a logger.(ö¥òÆ8‘áş­Ï1
+L	java:S106N"+Replace this use of System.out by a logger.(”­Æâûÿÿÿÿ8“áş­Ï1
+L	java:S106P"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8“áş­Ï1
+L	java:S106R"+Replace this use of System.out by a logger.(éêúÿÿÿÿ8“áş­Ï1
+L	java:S106U"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8“áş­Ï1
+F	java:S106X"+Replace this use of System.out by a logger.(–áøK8“áş­Ï1
+L	java:S106\"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8”áş­Ï1
+G	java:S106_"+Replace this use of System.out by a logger.(¯œôÙ8”áş­Ï1
+L	java:S106a"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8”áş­Ï1
+G	java:S106b"+Replace this use of System.out by a logger.(–Á¤¿8”áş­Ï1
+L	java:S106d"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•áş­Ï1
+G	java:S106g"+Replace this use of System.out by a logger.(ÿÙ…€8•áş­Ï1
+L	java:S106i"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•áş­Ï1
+G	java:S106l"+Replace this use of System.out by a logger.(¯œôÙ8•áş­Ï1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8•áş­Ï1
